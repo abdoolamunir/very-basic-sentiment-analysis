@@ -37,6 +37,7 @@ cd very-basic-sentiment-analysis
 ```
 
 ### Build the Docker Container
+This command builds the Docker container, which includes installing all the necessary dependencies from 'requirements.txt'.
 ```bash
 docker build -t sentiment-analysis-api .
 ```
