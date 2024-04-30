@@ -1,0 +1,48 @@
+# General
+*.log
+*.env
+*.pyc
+__pycache__
+.DS_Store
+.git
+.tmp
+
+# Python
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Testing
+*.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Local development
+dev.db
+
+.DS_Store
+.pytest_cache/
