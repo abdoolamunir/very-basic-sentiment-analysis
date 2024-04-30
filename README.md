@@ -7,9 +7,10 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [Hugging Face Space](#hugging-face-space)
 - [Contributors](#contributors)
 - [License](#license)
-- [Hugging Face Space](#hugging-face-space)
+
 
 ## Introduction
 This API utilizes a machine learning model to analyze text for sentiment, categorizing input as positive, negative, or neutral. It leverages a pre-trained BERT model from Hugging Face Transformers, integrated within a FastAPI framework to provide quick and reliable sentiment analysis.
@@ -79,7 +80,7 @@ To run the tests, execute the following command:
 ```bash
 pytest
 ```
-## Huggin Face Space
+## Hugging Face Space
 The API is also deployed on Hugging Face Spaces. You can access it here: []()
 
 ## Contributors
