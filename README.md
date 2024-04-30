@@ -1,7 +1,5 @@
 # Very Basic Sentiment Analysis API
 
-# Very Basic Sentiment Analysis API
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Overview](#overview)
